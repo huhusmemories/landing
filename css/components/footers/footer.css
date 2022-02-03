@@ -1,0 +1,28 @@
+.footer{
+  background-color: #2C2B2B;
+}
+
+.container > ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+  padding: 60px 0px 0px 0px ;
+  width: 200px;
+  margin: 0 auto;
+  font-size: 30px;
+}
+
+.li{
+  padding: 20px;
+}
+
+.container > .txt-p-footer {
+  padding: 15px 50px 50px 50px;
+  margin: 0;
+  text-align: center;
+  color: rgba(240, 240, 240, 0.3);
+}
+
+.link-green > a{
+  color: rgb(114, 200, 107);
+}
